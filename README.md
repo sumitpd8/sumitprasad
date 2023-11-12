@@ -1,4 +1,4 @@
 # sumitprasad
 This is my first Git Repository.
 <br>
-Author - Sumit Prasad
+Author - Sumit Prasad.
